@@ -3,13 +3,10 @@
 }
 
 body {
-	/*Want to change background image?*/
-	/*Upload a new one to the img folder.*/
-	/*Make sure you name it 'minecraft.jpg'*/
 	background: linear-gradient(rgba(20, 26, 35,0.55),rgba(20, 26, 35, 0.55)),
-				url("../img/background-2.jpg") no-repeat center center fixed;
+				url("../img/Giyu\ \(1\).jpg") no-repeat center center fixed;
 	background-size: cover;
-	font-family: "Open Sans", Helvetica;
+	font-family: "Open Sans", Helvetica, "Panton Black Caps";
 	margin: 0;
 	position: relative;
 }
@@ -105,7 +102,7 @@ p {
 
 .title {
 	font-weight: bold;
-	font-size: 17px;
+	font-size: 300px;
 	color: white;
 }
 
@@ -146,7 +143,7 @@ p {
 	}
 
 	.logo img {
-		width: 470px; /* Change image size for desktop */
+		width: 470px;
 	}
 
 	.logo {
